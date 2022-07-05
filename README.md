@@ -6,12 +6,7 @@
   - [Purpose](#purpose)
   - [Prerequisites](#prerequisites)
   - [How to run it](#how-to-run-it)
-
-
-![App Preview](./docs/preview.gif)
-
-
-
+  - [Preview](#preview)
 
 ## What is it?
 
@@ -32,3 +27,7 @@ brew install node
 ## How to run it
 
 Simply double-click `run.command`.
+
+## Preview
+
+![App Preview](./docs/preview.gif)

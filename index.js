@@ -570,6 +570,7 @@ async function spawnCaffeinate() {
         await sleep(delay)
     }
 
+    child.kill()
     console.clear()
     console.log(`${chalk.red("Registered keystroke. Stopping application.")}
 Application ran for: ${chalk.bgRed(elapsedTime())}`)
